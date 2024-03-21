@@ -11,7 +11,7 @@ Hi- 👋 Hi, I’m @Griffoo91
 ## Most Used Language:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=griffoo91&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griffoo91&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griffoo91&layout=compact&theme=merko)
 <!---
 Griffoo91/Griffoo91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
