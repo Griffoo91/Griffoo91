@@ -7,8 +7,6 @@
 ## My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=griffoo91&theme=merko)](https://git.io/streak-stats)
 
-## Most used Language:
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=griffoo91&show_icons=true&theme=merko)
 <!---
 Griffoo91/Griffoo91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
