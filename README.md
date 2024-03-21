@@ -5,7 +5,6 @@ Hi- 👋 Hi, I’m @Griffoo91
 - 📫 How to reach me...follow me twitter @blackson91 and linkedIn https://www.linkedin.com/in/griffoo91/
 - https://griffolab.netlify.app/
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=griffoo91&theme=merko)](https://git.io/streak-stats)
 ## My Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=griffoo91&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griffoo91&layout=compact&theme=merko)
