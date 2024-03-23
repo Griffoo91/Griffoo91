@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Griffoo91(Blackson)
-- 👀 I’m interested in web development and cybersecurity
-- 🌱 I’m currently learning Software Engineering at Kisii university
+- 👀 I’m interested in web development and cybersecurity.
+- 🌱 I’m currently learning Software Engineering at Kisii university.
 - 💞️ I’m looking to collaborate on projects
 
 ## My Stats:
