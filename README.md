@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Griffoo91(Blackson)
 - 👀 I’m interested in web development and cybersecurity
 - 🌱 I’m currently learning Software Engineering at Kisii university
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects
 
 ## My Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=griffoo91&show_icons=true&theme=merko)
